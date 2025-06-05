@@ -3,3 +3,4 @@ uvicorn
 requests
 GitPython
 psycopg2-binary
+python-dotenv
